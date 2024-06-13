@@ -1,4 +1,4 @@
->>>>>>> NICE TO MEET YOU >>>>>>>
+NICE TO MEET YOU 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenxin777&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
