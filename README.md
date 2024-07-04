@@ -9,12 +9,6 @@
     <td><img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chenxin777&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></td>
     <td><img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chenxin777&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br></td>
   </tr>
-<tr><td>
-### 🤺 About Me
-<img align="right" width="88" src="http://8.140.27.137:9000/mypic/imgs/logo.png" />
-<p>&emsp;&emsp;嗨，你好，我是777。热爱编程、数码、音乐、美食、旅行。</p>
-<p>&emsp;&emsp;希望能成为一名优秀的开发者</p>
-</td></tr>
 </table>
 <br>
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -28,6 +22,14 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <br>
 
+<table>
+    <tr><td>
+### 🤺 About Me
+<img align="right" width="88" src="http://8.140.27.137:9000/mypic/imgs/logo.png" />
+<p>&emsp;&emsp;嗨，你好，我是777。热爱编程、数码、音乐、美食、旅行。</p>
+<p>&emsp;&emsp;希望能成为一名优秀的开发者</p>
+</td></tr>
+</table>
 </div>
 
 
