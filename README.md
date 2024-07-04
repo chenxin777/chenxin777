@@ -23,13 +23,9 @@
 <br>
 
 <table>
-    <tr><td>
-### 🤺 About Me
-<img align="right" width="88" src="http://8.140.27.137:9000/mypic/imgs/logo.png" />
 <p>&emsp;&emsp;嗨，你好，我是777。热爱编程、数码、音乐、美食、旅行。</p>
 <p>&emsp;&emsp;希望能成为一名优秀的开发者</p>
-</td></tr>
-</table>
+
 </div>
 
 
