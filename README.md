@@ -16,7 +16,7 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <br>
 
-<p>&emsp;&emsp;hi, 我是chenxin。热爱编程、数码、音乐、美食、旅行。</p>
+<p>&emsp;&emsp;hi, 我是chenxin </p>
 <p>&emsp;&emsp;希望能成为一名优秀的开发者</p>
 
 </div>
