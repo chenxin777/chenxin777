@@ -11,27 +11,6 @@ Building beautiful things with code.
 
 ⸻
 
-🚀 About Me
-
-name: Chenxin
-role:
-  - Java Developer
-  - AI Application Builder
-focus:
-  - Spring Boot
-  - AI Agent
-  - LLM Engineering
-  - System Architecture
-currently_learning:
-  - Spring AI
-  - RAG
-  - MCP
-  - Agent Workflow
-motto:
-  "Keep Building."
-
-⸻
-
 ⚡ Tech Stack
 
 <div align="center">
@@ -107,12 +86,3 @@ motto:
 </div>
 
 ⸻
-
-<div align="center">
-while(alive){
-    eat();
-    code();
-    build();
-    repeat();
-}
-</div>
