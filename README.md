@@ -16,13 +16,21 @@
 
 ## 🧑‍🚀 About Me
 
-```yaml
-name: "Chenxin"
-role: ["Java Developer", "AI Builder", "Tech Explorer"]
-current_focus: "Building scalable backend systems & exploring AI-powered tooling"
-fun_fact: "I turn ☕ into 🚀"
-reach_me: "always open to interesting conversations"
+```bash
+chenxin@dev:~$ whoami
 ```
+
+```yaml
+🎯 Currently:     打磨高并发后端系统，让服务扛得住流量洪峰
+🧪 Exploring:     用 AI 给传统研发流程加点魔法
+🛠️ Playground:    Java / Spring 生态是主战场，偶尔越界玩点新东西
+💬 Ask me about:  分布式系统、性能调优、AI 落地实践
+⚡ Fun fact:      咖啡因转化率 200%，代码产出量与咖啡杯数正相关 ☕→🚀
+🌙 Night mode:    灵感最活跃的时间是深夜和 deadline 前一小时
+🎮 Off duty:      音乐 / 游戏 / 瞎捣鼓奇怪的小工具
+```
+
+> 💡 *"代码是写给人看的，顺便让机器也能跑起来。"*
 
 <br/>
 
@@ -76,11 +84,11 @@ reach_me: "always open to interesting conversations"
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🎲 Random Dev Quote
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chenxin777&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
