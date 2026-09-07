@@ -23,7 +23,17 @@ Building beautiful things with code ☕
 ## ⚡ Tech Stack
 
 <div align="center">
-![](https://raw.githubusercontent.com/chenxin777/github-stats/generated/overview.svg) ![](https://raw.githubusercontent.com/chenxin777/github-stats/generated/languages.svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
 <br/>
@@ -32,8 +42,7 @@ Building beautiful things with code ☕
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chenxin777&show_icons=true&theme=default&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxin777&layout=compact&theme=default&hide_border=true"/>
+![](https://raw.githubusercontent.com/chenxin777/github-stats/generated/overview.svg) ![](https://raw.githubusercontent.com/chenxin777/github-stats/generated/languages.svg)
 
 </div>
 
